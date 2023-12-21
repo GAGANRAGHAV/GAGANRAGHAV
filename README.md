@@ -1,6 +1,6 @@
 
 
-### <div align="center">I'm Gagan, a frontend developer 👨‍💻 🚀</div>  
+### <div align="center">I'm Gagan, an Open Source Enthusiast 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on React + Firebase  
